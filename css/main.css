@@ -273,6 +273,11 @@ section{
     padding: 15px;
     
 }
+.aboutme .menu{
+    padding-bottom: 20px;
+    text-align: left;
+}
+
 
 .aboutme .menu li{
     font-style: normal;
@@ -287,8 +292,10 @@ section{
 
 .aboutme .menu li a{
     text-decoration: none;
-    font-size: 40px;
+    font-size: 20px;
     color: black;
+    
+    
 }
 
 
